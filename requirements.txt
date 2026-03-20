@@ -1,0 +1,6 @@
+# Python dependencies for street-fighter-game
+
+numpy
+pygame
+requests
+Flask
